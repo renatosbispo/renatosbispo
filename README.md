@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hey there 👋, I'm Renato Bispo
 
-<!--
-**renatosbispo/renatosbispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A developer from Brazil currently working through a Full Stack Web Development curriculum at [Trybe](https://github.com/betrybe).
 
-Here are some ideas to get you started:
+So far, I've worked on dozens of projects in Trybe's Web Development course that involved tools like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
+
+Some of these projects were designed to be worked on individually while others were group assignments. A few of them are available on [this repository](https://github.com/renatosbispo/trybe).
+
+In addition to the Web, I'm also interested in the fields of Artificial Intelligence and Mixed Reality, which I intend to explore in the future.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatosbispo&show_icons=true&count_private=true&theme=gotham&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+<p>
+  <a href="https://www.linkedin.com/in/renatosbispo/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Renato Bispo's LinkedIn" />
+  </a>
+  <a href="mailto:renatosilvabispo@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Send email to Renato Bispo" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511959852122&text=Hi%20Renato!" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Send WhatsApp message to Renato Bispo" />
+  </a>
+  <a href="https://t.me/renatosbispo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Send Telegram message to Renato Bispo" />
+  </a>
+</p>

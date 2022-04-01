@@ -23,7 +23,7 @@ So far, I've worked on dozens of projects in Trybe's Web Development course that
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
 </p>
 
-Some of these projects were designed to be worked on individually while others were group assignments. A few of them are available on [this repository](https://github.com/renatosbispo/trybe).
+Some of these projects were designed to be worked on individually while others were group assignments.
 
 In addition to the Web, I'm also interested in the fields of Artificial Intelligence and Mixed Reality, which I intend to explore in the future.
 

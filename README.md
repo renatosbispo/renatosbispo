@@ -7,9 +7,9 @@
   <a href="https://t.me/renatosbispo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Send Telegram message to Renato Bispo" /></a>
 </p>
 
-### A developer from Brazil currently working through a Full Stack Web Development curriculum at [Trybe](https://github.com/betrybe).
+### A Software Engineer from Brazil.
 
-So far, I've worked on dozens of projects in Trybe's Web Development course that involved tools like:
+So far, I've had experience with tools like:
 
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
@@ -22,8 +22,6 @@ So far, I've worked on dozens of projects in Trybe's Web Development course that
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
 </p>
-
-Some of these projects were designed to be worked on individually while others were group assignments.
 
 In addition to the Web, I'm also interested in the fields of Artificial Intelligence and Mixed Reality, which I intend to explore in the future.
 

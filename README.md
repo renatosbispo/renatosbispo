@@ -24,5 +24,3 @@ So far, I've had experience with tools like:
 </p>
 
 In addition to the Web, I'm also interested in the fields of Artificial Intelligence and Mixed Reality, which I intend to explore in the future.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatosbispo&show_icons=true&count_private=true&theme=gotham&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
